@@ -6,3 +6,4 @@ When I was in high school I participated in many math contests, but after some t
 # Projects
 * My first project is an implementation of Dobble game. It was done for academic purposes. It is based on very popular game - Dobble. We wanted to make it uniq - that is why we use speech as input to make it more realistic and more occupying. We wrote it in Python with libraries Speech Recognition, Tkinker and Pyaudio. Graphical interface automatically generates carts with 8 pictures on each one. Our project will be upgrated in the nearest future.    
 
+
